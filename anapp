@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile-Ahnaf </title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <!--Konten yang terlihat oleh pengunjung akan ada di sini-->
+<body>
+<div class="kartu profil">
+  <imgsrc="foto-profil.jpg" alt="foto profil saya">
+    <h1>Ahnaf Abdillah Asshidiqi</h1>
+    <p>Saya Siswa SMAN 4 Probolinggo yang tertarik dengan teknologi dan desain. Selamat datang di website pertama saya!</p>
+    <a href="https://www.instagram.com/ahnaf_diki">Ayo Kunjungi Instagram Saya</a>
+<button id="sapaButton"sapa saya!</button>
+</div>
+<script src="script.js"></script>
+  </body>
+</html>
